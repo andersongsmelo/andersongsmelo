@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=200&section=header&text=Anderson%20Melo&fontSize=70&fontColor=ffffff&desc=Software%20Development%20Student&descSize=20&descColor=66d9ef&animation=twinkling&glow=5&strokeWidth=1" alt="Anderson Melo Banner" />
+</p>
+
 # Hi there, I'm Anderson 👋
 
 I am a Software Development student based in Toronto, Canada, focused on building efficient, scalable, and practical applications. I enjoy solving complex logic problems, designing web applications, and working across the full stack.
@@ -23,19 +27,17 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 
 ### 🚀 Featured Projects
 
-* **EcoDefender**  
+* **EcoDefender**
   An interactive HTML5 Canvas web game developed with JavaScript, featuring collision detection, dynamic HUD elements, and custom gameplay mechanics.
-* **Sport Club Toronto**  
+* **Sport Club Toronto**
   A multi-page responsive web application built with HTML, CSS, and jQuery plugins focusing on UI design and modern layout techniques.
 
 ---
 
-### 📊 Profile Summary
+### 🏆 GitHub Achievements & Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/andersongsmelo?label=Followers&style=for-the-badge&color=238636&logo=github" />
-  <img src="https://img.shields.io/github/stars/andersongsmelo?label=Stars&style=for-the-badge&color=e3b341&logo=github" />
-  <img src="https://img.shields.io/github/repos/personal/andersongsmelo?label=Public%20Repos&style=for-the-badge&color=1f6feb&logo=github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andersongsmelo&theme=onedark&column=4" alt="Anderson's Trophies" />
 </p>
 
 ---
