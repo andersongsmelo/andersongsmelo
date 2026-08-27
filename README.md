@@ -30,10 +30,12 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersongsmelo&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/andersongsmelo?label=Followers&style=for-the-badge&color=238636&logo=github" />
+  <img src="https://img.shields.io/github/stars/andersongsmelo?label=Stars&style=for-the-badge&color=e3b341&logo=github" />
+  <img src="https://img.shields.io/github/repos/personal/andersongsmelo?label=Public%20Repos&style=for-the-badge&color=1f6feb&logo=github" />
 </p>
 
 ---
