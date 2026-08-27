@@ -34,12 +34,12 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 
 ---
 
-### 📊 GitHub Overview
+### 📊 Profile Status
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/andersongsmelo?label=Followers&style=for-the-badge&color=00f0ff&logo=github" />
-  <img src="https://img.shields.io/github/stars/andersongsmelo?label=Stars&style=for-the-badge&color=e3b341&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-00f0ff?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Public_Repos-18-238636?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Toronto%2C_CA-e3b341?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
