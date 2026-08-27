@@ -33,7 +33,9 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersongsmelo&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=andersongsmelo&show_icons=true&theme=radial" alt="Anderson's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=andersongsmelo&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
 ---
