@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b132b&height=260&section=header&text=Anderson%20Melo&fontSize=65&fontColor=00f0ff&desc=Software%20Development%20Student&descSize=18&descColor=8d99ae&descAlignY=68&animation=twinkling&strokeWidth=1" alt="Anderson Melo Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Anderson%20Melo&fontSize=65&fontColor=00f0ff&desc=Software%20Development%20Student&descSize=18&descColor=8b949e&descAlignY=75&animation=twinkling&strokeWidth=1" alt="Anderson Melo Banner" />
 </p>
 
 # Hi there, I'm Anderson 👋
@@ -34,10 +34,12 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 
 ---
 
-### 🏆 GitHub Achievements & Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersongsmelo&theme=onedark&column=4" alt="Anderson's Trophies" />
+  <img src="https://img.shields.io/github/followers/andersongsmelo?label=Followers&style=for-the-badge&color=00f0ff&logo=github" />
+  <img src="https://img.shields.io/github/stars/andersongsmelo?label=Stars&style=for-the-badge&color=e3b341&logo=github" />
+  <img src="https://img.shields.io/github/repos/personal/andersongsmelo?label=Public%20Repos&style=for-the-badge&color=238636&logo=github" />
 </p>
 
 ---
