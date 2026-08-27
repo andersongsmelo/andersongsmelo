@@ -32,8 +32,11 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 
 ### 📊 GitHub Stats
 
-![Anderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersongsmelo&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersongsmelo&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.qnimate.com/api?username=andersongsmelo&show_icons=true&theme=radial" alt="Anderson's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.qnimate.com/api/top-langs/?username=andersongsmelo&layout=compact&theme=radial" alt="Top Languages" />
+</p>
 
 ---
 
