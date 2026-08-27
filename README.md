@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff0055,ff7b00,ffd000,00c8ff,0066ff&height=230&section=header&text=Anderson%20Melo&fontSize=65&fontColor=ffffff&desc=Software%20Development%20Student&descSize=18&descColor=fffacd&descAlignY=65&animation=twinkling&strokeWidth=1" alt="Anderson Melo Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&gradientColor=ff0055,ff7b00,ffd000,00c8ff,0066ff&height=230&section=header&text=Anderson%20Melo&fontSize=65&fontColor=ffffff&desc=Software%20Development%20Student&descSize=18&descColor=fffacd&descAlignY=65&animation=twinkling&strokeWidth=1" alt="Anderson Melo Banner" />
 </p>
 
 # Hi there, I'm Anderson 👋
