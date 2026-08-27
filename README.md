@@ -39,7 +39,7 @@ I am a Software Development student based in Toronto, Canada, focused on buildin
 <p align="center">
   <img src="https://img.shields.io/github/followers/andersongsmelo?label=Followers&style=for-the-badge&color=00f0ff&logo=github" />
   <img src="https://img.shields.io/github/stars/andersongsmelo?label=Stars&style=for-the-badge&color=e3b341&logo=github" />
-  <img src="https://img.shields.io/github/repos/personal/andersongsmelo?label=Public%20Repos&style=for-the-badge&color=238636&logo=github" />
+  <img src="https://img.shields.io/github/repos/user/andersongsmelo?label=Public%20Repos&style=for-the-badge&color=238636&logo=github" />
 </p>
 
 ---
