@@ -4,7 +4,7 @@
 
 # Hi there, I'm Anderson 👋
 
-I am a Software Development student based in Toronto, Canada, focused on building efficient, scalable, and practical applications. I enjoy solving complex logic problems, designing web applications, and working across the full stack.
+I am a Computer Programming student based in Toronto, Canada, focused on building efficient, scalable, and practical applications. I enjoy solving complex logic problems, designing web applications, and working across the full stack.
 
 ---
 
