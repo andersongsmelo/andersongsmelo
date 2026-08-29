@@ -38,7 +38,7 @@ I am a Computer Programming student based in Toronto, Canada, focused on buildin
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning_%26_Building-00f0ff?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Public_Repos-18-238636?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public_Repos-15-238636?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Location-Toronto%2C_CA-e3b341?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
